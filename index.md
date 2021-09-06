@@ -42,10 +42,10 @@ npm start
 
 The Javascript code allows you to observe the execution by animating the state machines. There are two ways to view the animation:
 
-- (Recommended) find the link to the inspector in the output and open it in another browser tab. The link looks like:
+\- (Recommended) find the link to the inspector in the output and open it in another browser tab. The link looks like:
 ```bash
 Inspector: http://rtpoet.jahed.ca/user/kjahed/proxy/3000/inspector.html?server=rtpoet.jahed.ca/user/kjahed/proxy/8801
 ```
 
-- Click on the icon shown below to open the animation whithin the web interface itself:
+\- Click on the icon shown below to open the animation whithin the web interface itself:
 [ADD A SCREENSHOT]
