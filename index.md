@@ -19,12 +19,12 @@ You can use any username/password combination to login. Note that the interface 
 #### Browsing the examples
 The interface is preloaded with examples to help you explore UML-RT's features. All the examples (.rt files) can be found under the ```examples``` subdirectory. There are examples for both Javascript and C++. Simply click on one of the files to open it in the source editor.
 
-[ADD A SCREENSHOT]
+![examples.png](examples.png)
 
 #### Generating the code
 A right-click whithin the editor tab will open the contex menu that allows you to generate the code. Depending on the model's action code language, you can choose to generate either Javascript or C++ code. The generated code will be available under the ```src-gen``` subdirectory.
 
-[ADD A SCREENSHOT]
+![generate.png](generate.png)
 
 #### Executing the C++ code
 Right-click on the root directory containing the generated C++ code and choose 'Open in Integrated Terminal'. This will open a terminal tab at the bottom of the screen. To execute the code, execute the following commands:
@@ -32,6 +32,10 @@ Right-click on the root directory containing the generated C++ code and choose '
 make
 ./<executable_name>
 ```
+
+![terminal.png](terminal.png)
+
+![build.png](build.png)
 
 #### Executing the Javascript code
 Right-click on the root directory containing the generated JS code and choose 'Open in Integrated Terminal'. This will open a terminal tab at the bottom of the screen. To execute the code, execute the following commands:
@@ -48,4 +52,5 @@ Inspector: http://rtpoet.jahed.ca/user/kjahed/proxy/3000/inspector.html?server=r
 ```
 
 \- Click on the icon shown below to open the animation whithin the web interface itself:
-[ADD A SCREENSHOT]
+
+![browser.png](browser.png)
