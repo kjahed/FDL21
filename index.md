@@ -6,7 +6,7 @@ tutorial at FDL'21.
 
 ### Resources 
 - [Tutorial slides]()
-- [Example models (Pinger-Ponger)]()
+- [Sample models](sampleModelsForFDL21Tutorial.zip)
 - [RSARTE user's guide](https://rsarte.hcldoc.com/help/nav/26)
 - [RSARTE installation instructions](http://jahed.ca/rsarte)
 - [Textual grammar](https://github.com/kjahed/rtpoet-dsl/blob/master/ca.jahed.rtpoet.dsl/src/main/java/ca/jahed/rtpoet/dsl/Rt.xtext)  
