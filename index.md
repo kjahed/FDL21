@@ -6,7 +6,7 @@ tutorial at FDL'21.
 
 ### Resources 
 - [Tutorial slides]()
-- [Sample models](sampleModelsForFDL21Tutorial.zip)
+- [Sample models](https://github.com/kjahed/FDL21/blob/master/sampleModelsForFDL21Tutorial.zip?raw=true)
 - [RSARTE user's guide](https://rsarte.hcldoc.com/help/nav/26)
 - [RSARTE installation instructions](http://jahed.ca/rsarte)
 - [Textual grammar](https://github.com/kjahed/rtpoet-dsl/blob/master/ca.jahed.rtpoet.dsl/src/main/java/ca/jahed/rtpoet/dsl/Rt.xtext)  
