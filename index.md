@@ -29,6 +29,7 @@ A right-click whithin the editor tab will open the contex menu that allows you t
 #### Executing the C++ code
 Right-click on the root directory containing the generated C++ code and choose 'Open in Integrated Terminal'. This will open a terminal tab at the bottom of the screen. To execute the code, execute the following commands:
 ```bash
+cd .
 make
 ./<executable_name>
 ```
