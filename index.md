@@ -5,7 +5,7 @@ This repository contains all the resources for the MBSD for Reactive Systems
 tutorial at FDL'21.
 
 ### Resources 
-- [Tutorial slides]()
+- [Tutorial slides](https://github.com/kjahed/FDL21/blob/master/umlrtTutorial_FDL21_v1.pptx?raw=true)
 - [Sample models](https://github.com/kjahed/FDL21/blob/master/sampleModelsForFDL21Tutorial.zip?raw=true)
 - [RSARTE user's guide](https://rsarte.hcldoc.com/help/nav/26)
 - [RSARTE installation instructions](http://jahed.ca/rsarte)
